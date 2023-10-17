@@ -1,0 +1,55 @@
+1.Describir User relacionada al req. de "Enviar prendas a vender"
+2.Definir User Canonica
+3.Estimar User del punto 1 justificando
+4.Describir User "Confirmar propuesta de venta"
+
+5.PARA LA PROX. CLASE: resolver las US: "seleccionar las prendas"
+					"completar ficha de prendas"
+
+Criterios para determinar si es Alta-Media-Baja:
+
+-Complejidad AMB -cant. transacciones/entidades
+		 -validaciones
+		 -req. graficos/pantalla/UX
+		 -calculos complejos
+
+-Esfuerzo AMB -persistencia
+              -entidades
+              -pantallas
+              -integraciones API/librerias
+
+-Incertidumbre AMB -tecnico -integraciones API
+		    	    -tecnologia/lenguaje
+		    	    -servidores
+	                    -imagenes
+	                    -librerias
+		    
+                   -negocio -req. incompletos/ambiguos
+			    -reglas de negocio no claras
+			    -req. legales
+
+1.
+Enviar Prendas a Vender:
+	COMO Vendedor QUIERO enviar prendas que ya no uso PARA poner a la venta.
+
+Criterios de Aceptacion:
+-Debe ingresar la cantidad de prendas para cada categoria y la descripcion de las prendas de la categoria
+-Puede subir una foto de las prendas de cada categoria. Hasta 512Kb
+-Debe seleccionar la forma de envio (retiro a domicilio o llevar a punto de recoleccion). Si selecciona
+punto de recoleccion debe seleccionar uno de los mismos.
+-Debe ingresar al menos 10 prendas
+
+Pruebas de Acpetacion:
+-PROBAR + frase verbal + ingresando... (esto es lo minimo como se debe poner una Prueba de Acept.)
+
+2.
+User Canonica: -debe poseer baja o nula incertidumbre
+	       -
+Elegimos "Registrar Usuario con Mail"
+
+3.
+Clasificar y JUSTIFICAR:
+
+Complejidad: Media
+Esfuerzo: Medio
+Incertidumbre: Media (hay que "inventar" un incertidumbre tecnica en la justificacion)
