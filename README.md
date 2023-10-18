@@ -30,11 +30,11 @@ Cronograma de clases | Cronograma_Clases.pdf | [TP4-ISW\Tronco\Programa de la as
 Acceso a clases grabadas | Clases_Grabadas.pdf | [TP4-ISW\Tronco\Programa de la asignatura](https://github.com/IESchneider/TP4-ISW/tree/main/Tronco/Programa%20de%20la%20asignatura) | 
 Libros | Libro_<<Nombre_Libro>>.pdf | [TP4-ISW\Tronco\Teorico\Material bibliografico](https://github.com/IESchneider/TP4-ISW/tree/main/Tronco/Teorico/Material%20bibliografico) | 
 Presentaciones Clases | `XX`_ Presentacion_`Tema`.pdf | [TP4-ISW\Tronco\Teorico\Presentaciones de clases](https://github.com/IESchneider/TP4-ISW/tree/main/Tronco/Teorico/Presentaciones%20de%20clases) | 
-Guías | Guia_`Tema`_`YYYY`.pdf | [TP4-ISW\Tronco\Practico\Guia de trabajos practicos y de investigacion](https://github.com/IESchneider/TP4-ISW/tree/main/Tronco/Practico/Guia%20de%20trabajos%20practicos%20y%20de%20investigacion) | 
+Guías | Guia_`Tema`_`YYYY`.pdf | [TP4-ISW\Tronco\Teorico\Guia de investigacion](https://github.com/IESchneider/TP4-ISW/tree/main/Tronco/Teorico/Guia%20de%20trabajos%20de%20investigacion) [TP4-ISW\Tronco\Practico\Guia de trabajos practicos](https://github.com/IESchneider/TP4-ISW/tree/main/Tronco/Practico/Guia%20de%20trabajos%20practicos) | 
 Templates | Template_`Tema`.pdf | [TP4-ISW\Tronco\Practico\Templates para practicos y parciales](https://github.com/IESchneider/TP4-ISW/tree/main/Tronco/Practico/Templates%20para%20practicos%20y%20parciales) | 
 Trabajos Prácticos | TP`NumeroTP`.zip | [TP4-ISW\Tronco\Practico\Trabajos practicos](https://github.com/IESchneider/TP4-ISW/tree/main/Tronco/Practico/Trabajos%20practicos) | 
-Notas | Notas_ISW_`Tema`_`Autor`.docx | [TP4-ISW\Tronco\Miscelaneos\Notas de clase](https://github.com/IESchneider/TP4-ISW/tree/main/Tronco/Miscelaneos/Notas%20de%20clase) | 
-Resumen | Resumen_`Tema`_`Autor`.pdf | [TP4-ISW\Tronco\Miscelaneos\Resumenes](https://github.com/IESchneider/TP4-ISW/tree/main/Tronco/Miscelaneos/Resumenes) | 
+Notas | Notas_ISW_`Tema`_`Autor`.docx | [TP4-ISW\Tronco\Resumenes y notas de clase\Notas de clase](https://github.com/IESchneider/TP4-ISW/tree/main/Tronco/Resumenes%20y%20notas%20de%20clase/Notas%20de%20clase) | 
+Resumen | Resumen_`Tema`_`Autor`.pdf | [TP4-ISW\Tronco\Resumenes y notas de clase\Resumenes](https://github.com/IESchneider/TP4-ISW/tree/main/Tronco/Resumenes%20y%20notas%20de%20clase/Resumenes) | 
 
 ### Glosario ###
 Sigla | Significado |
