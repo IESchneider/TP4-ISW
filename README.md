@@ -10,13 +10,13 @@
     * Guia de trabajos de investigacion
   * Practico
     * Guia de trabajos practicos
+    * Simulacros
     * Templates para practicos y parciales
     * Trabajos practicos
       * TP1
         * Resolución
         * Librerias y codigo de soporte
       * TPN
-    * Simulacros
   * Resumenes y notas de clase
     * Resúmenes
     * Notas de clase
