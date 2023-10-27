@@ -36,7 +36,7 @@ Templates | Template_`Tema`.pdf | [TP4-ISW\Tronco\Practico\Templates para practi
 Trabajos Prácticos | TP`NumeroTP`.zip | [TP4-ISW\Tronco\Practico\Trabajos practicos](https://github.com/IESchneider/TP4-ISW/tree/main/Tronco/Practico/Trabajos%20practicos) | 
 Notas | Notas_ISW_`Tema`_`Autor`.docx | [TP4-ISW\Tronco\Resumenes y notas de clase\Notas de clase](https://github.com/IESchneider/TP4-ISW/tree/main/Tronco/Resumenes%20y%20notas%20de%20clase/Notas%20de%20clase) | 
 Resumen | Resumen_`Tema`_`Autor`.pdf | [TP4-ISW\Tronco\Resumenes y notas de clase\Resumenes](https://github.com/IESchneider/TP4-ISW/tree/main/Tronco/Resumenes%20y%20notas%20de%20clase/Resumenes) | 
-Simulacros | Simulacro_Parcial`XX`.pdf | [TP4-ISW\Tronco\Practico\Simulacros]()
+Simulacros | Simulacro_Parcial`XX`.pdf | [TP4-ISW\Tronco\Practico\Simulacros](https://github.com/IESchneider/TP4-ISW/blob/main/Tronco/Practico/Simulacros/Simulacro_Parcial2.pdf)
 
 ### Glosario ###
 Sigla | Significado |
