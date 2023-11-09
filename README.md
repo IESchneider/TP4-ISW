@@ -8,6 +8,7 @@
     * Material bibliografico
     * Presentaciones de clases
     * Guia de trabajos de investigacion
+    * Trabajos de investigacion
   * Practico
     * Guia de trabajos practicos
     * Simulacros
@@ -37,6 +38,7 @@ Trabajos Prácticos | TP`NumeroTP`.zip | [TP4-ISW\Tronco\Practico\Trabajos pract
 Notas | Notas_ISW_`Tema`_`Autor`.docx | [TP4-ISW\Tronco\Resumenes y notas de clase\Notas de clase](https://github.com/IESchneider/TP4-ISW/tree/main/Tronco/Resumenes%20y%20notas%20de%20clase/Notas%20de%20clase) | 
 Resumen | Resumen_`Tema`_`Autor`.pdf | [TP4-ISW\Tronco\Resumenes y notas de clase\Resumenes](https://github.com/IESchneider/TP4-ISW/tree/main/Tronco/Resumenes%20y%20notas%20de%20clase/Resumenes) | 
 Simulacros | Simulacro_Parcial`XX`.pdf | [TP4-ISW\Tronco\Practico\Simulacros](https://github.com/IESchneider/TP4-ISW/tree/main/Tronco/Practico/Simulacros)
+Trabajo de Investigacion Grupal | TIG`XX`.zip | [TP4-ISW\Tronco\Teorico\Trabajos de investigacion](https://github.com/IESchneider/TP4-ISW/tree/main/Tronco/Teorico/Trabajos%20de%20investigacion)
 
 ### Glosario ###
 Sigla | Significado |
@@ -48,6 +50,7 @@ Sigla | Significado |
 `YYYY` | Fecha en formato de año (Año). Ej. 2023.
 `ITERxx` | Número de la iteración del proyecto. Ej. ITER02.
 TP | Trabajo Práctico.
+TIG | Trabajo de Investigación Grupal.
 ISW | Ingeniería de Software.
 Template | Plantilla.
 `Autor` | Nombre propio o de pila y apellido del miembro del equipo autor del archivo. En caso de no haber autor conocido, se especifica “Sin Autor”. Ej. “Juan Perez”.
